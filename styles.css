@@ -1,0 +1,27 @@
+ /*Comments*/
+ #rosita{
+    color: blueviolet;
+}
+article{
+    background-color: red;
+    color: #ffffff;
+}
+
+img{
+    width: 200px;
+    height: 100px;
+}
+
+#pizzita{
+    width: 500px;
+}
+
+li{
+    color: green;
+    display: inline;
+}
+
+.pepperoni{
+    background-color: peru;
+    color: darkgray;
+}
